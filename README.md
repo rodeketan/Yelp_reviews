@@ -1,7 +1,7 @@
 
 # Topic Modelling via Latent Dirichlet Allocation (LDA) (Yelp Dataset)
 
-This projects leverages topic modellng on restaurant reviews to identify weak areas for restaurants.
+This project leverages topic modellng on restaurant reviews to identify weak areas for restaurants.
 
 ### Files
 
